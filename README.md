@@ -102,6 +102,7 @@ key = "YOUR_SUPABASE_ANON_KEY_HERE"
 streamlit run main.py
 ```
 📊 Key Features / Wow Factors
+
 1.🔮 AI Predictive Analytics:
 - Trains on 2025 historical data to forecast 2026 waste generation.
 - Flags "High Alert" months before they occur.
@@ -118,15 +119,15 @@ streamlit run main.py
 
 ---
 
-👥 Contributors
+## 👥 Contributors
 Team EcoAudit (NBN Sinhgad Technical Institute Campus)
 
-Bhomaram Suthar - Full Stack Dev & AI Integration
-Hemangi Borase - Team Lead & Research
-Shreya Nawale - Data Analysis
-Adarsh Singh - Documentation
-Vanshika Birajdar - Testing
-Guided By: Prof. Sarthak Narnor
+- Bhomaram Suthar - Full Stack Dev & AI Integration
+- Hemangi Borase - Team Lead & Research
+- Shreya Nawale - Data Analysis
+- Adarsh Singh - Documentation
+- Vanshika Birajdar - Testing
+- Guided By: Prof. Sarthak Narnor
 
 📄 License
 This project is developed for the Edunet Foundation Internship.
